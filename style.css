@@ -1,0 +1,27 @@
+
+.container{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+
+}
+
+li{
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+img{
+    height: 25%;
+    padding: 0px 30px;
+}
+
